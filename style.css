@@ -1,0 +1,65 @@
+body
+{
+    margin: 0;
+    background-color: peachpuff;
+    font-family: fantasy;
+    
+}
+header
+{
+    width: 100%;
+    text-align: center;
+    background-color: black;
+    color: white;
+    margin-bottom: 5%;
+}
+nav
+{
+    background-color: aqua;
+    list-style: none;
+    display: flex;
+    width: 70%;
+    margin-left:auto;
+    margin-right:auto; 
+    
+}
+nav li
+{
+    margin-left: 20%;
+}
+.container
+{
+    width:70%;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid black;
+}
+section
+{
+    float: left;
+    width: 70%;
+    background-color: gold;
+    border: 5px solid black;
+    text-align: center;
+    padding: 2%;
+}
+aside{
+    float: right;
+    background-color: blueviolet;
+    width: 20%;
+    padding: 1%;
+    margin: 1%;
+}
+footer
+{
+    clear: both;
+    background-color: black;
+    color: white;
+    width: 100%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    text-align: center;
+    margin-top: 10%;
+
+
+}
