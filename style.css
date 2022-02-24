@@ -1,75 +1,65 @@
-body
-{
-    margin: 0;
-    background-image:url(b.png);
-    background-repeat: no-repeat;
-    background-size: cover;
-    width: 100%;
-    text-transform: capitalize;
-    font-style: italic;
-
-    
+@import url("https://fonts.googleapis.com/css2?family=Russo+One&display=swap");
+body {
+  margin: 0;
+  background-image: url(b.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  text-transform: capitalize;
+  font-style: italic;
+  font-family: 'Russo One', sans-serif;
 }
-header
-{
-    width: 100%;
-    text-align: center;
-    background-color: black;
-    color: white;
-    margin-bottom: 5%;
+header {
+  width: 100%;
+  text-align: center;
+  background-color: black;
+  color: white;
+  margin-bottom: 5%;
 }
-nav
-{
-    background-color: aqua;
-    list-style: none;
-    display: flex;
-    width: 80%;
-    margin-left:auto;
-    margin-right:auto;
-    
+nav {
+  background-color: aqua;
+  list-style: none;
+  display: flex;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
 }
-nav li
-{
-    margin-left: 12%;
-    width:100%;
-    height:;
+nav li {
+  margin-left: 12%;
+  width: 100%;
+  height: ;
 }
-.container
-{
-    width:70%;
-    margin-left: auto;
-    margin-right: auto;
-    border: 1px solid black;
-    background-image:url(t.png);
-    background-repeat: no-repeat;
-    background-size: cover;
+.container {
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+  border: 1px solid black;
+  background-image: url(t.png);
+  background-repeat: no-repeat;
+  background-size: cover;
 }
-section
-{
-    float: left;
-    width: 65%;
-    background-color: gold;
-    border-right: 5px solid black;
-    text-align: center;
-    padding: 2%;
-    margin-bottom: 5%;
+section {
+  float: left;
+  width: 65%;
+  background-color: gold;
+  border-right: 5px solid black;
+  text-align: center;
+  padding: 2%;
+  margin-bottom: 5%;
 }
-aside{
-    float: right;
-    background-color: blueviolet;
-    width: 25%;
-    padding: 2%;
+aside {
+  float: right;
+  background-color: blueviolet;
+  width: 25%;
+  padding: 2%;
 }
-footer
-{
-    clear: both;
-    background-color: black;
-    color: white;
-    width: 100%;
-    padding-top: 5%;
-    padding-bottom: 5%;
-    text-align: center;
-    margin: top 20px;
-
-
+footer {
+  clear: both;
+  background-color: black;
+  color: white;
+  width: 100%;
+  padding-top: 5%;
+  padding-bottom: 5%;
+  text-align: center;
+  margin: top 20px;
 }
