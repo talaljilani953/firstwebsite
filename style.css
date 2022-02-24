@@ -2,6 +2,8 @@ body
 {
     margin: 0;
     background-image:url(b.png);
+    background-repeat: no-repeat;
+    width: 100%;
     text-transform: capitalize;
     font-style: italic;
 
