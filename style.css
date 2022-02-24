@@ -1,8 +1,10 @@
 body
 {
     margin: 0;
-    background-color: peachpuff;
-    font-family: fantasy;
+    background-image:url(t.png);
+    text-transform: capitalize;
+    font-style: italic;
+
     
 }
 header
