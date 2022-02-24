@@ -38,6 +38,9 @@ nav li
     margin-left: auto;
     margin-right: auto;
     border: 1px solid black;
+    background-image:url(t.png);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 section
 {
