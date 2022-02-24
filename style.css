@@ -3,6 +3,7 @@ body
     margin: 0;
     background-image:url(b.png);
     background-repeat: no-repeat;
+    background-size: cover;
     width: 100%;
     text-transform: capitalize;
     font-style: italic;
